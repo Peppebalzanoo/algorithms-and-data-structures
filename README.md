@@ -1,5 +1,5 @@
 # 📚 Fundamental Data Structures and Algorithms in C++
-This project is implemented in C++ and utilizes templates for managing generic data types. It involves the implementation "from scratch" of fundamental algorithms and data structures studied in our Algorithms and Data Structures course. The project consists of five exercises, each focusing on different data structures and their functionalities.
+This project involves the implementation "from scratch" of fundamental algorithms and data structures studied in our Algorithms and Data Structures course. The project is implemented in C++ and utilizes templates for managing generic data types. The project consists of five exercises, each focusing on different data structures and their functionalities.
 
 ## ✨ Exercises Overview
 
