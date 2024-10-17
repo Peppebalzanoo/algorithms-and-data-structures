@@ -54,3 +54,10 @@ This project is based on several key concepts of Object-Oriented Programming (OO
 3. **Polymorphism**: Enabling objects to be treated as instances of their parent class. The two types of polymorphism in C++ are compile-time (function overloading and operator overloading) and run-time (using virtual functions). Polymorphism can introduce difficulties in debugging and maintenance if the code becomes too dynamic.
 
 4. **Abstraction**: Hiding the complex implementation details and exposing only the necessary parts of an object. This simplifies interactions with the objects but may lead to challenges in understanding the underlying system if not documented properly.
+
+
+## 📄 Documentation
+For detailed documentation on the code structure, features, and further instructions, refer to the `docs` folder in this repository.
+
+## 🤝 Contributing
+We welcome contributions! Please fork the repository and submit a pull request with your changes. 
